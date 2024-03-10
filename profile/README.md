@@ -1,6 +1,6 @@
 ## YYKC
 
-[주제 선정 보고서](https://github.com/capstone-YYKC/docs/tree/main/%EA%B3%84%ED%9A%8D%EC%84%9C)
+[주제 선정 보고서](https://github.com/capstone-YYKC/docs/blob/main/%EA%B3%84%ED%9A%8D%EC%84%9C/%5B%EC%9C%A0%EC%9C%A0%EA%B9%80%EC%B5%9C%5D-%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 <!--
 
