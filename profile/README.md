@@ -1,4 +1,6 @@
-## Hi there 👋
+## YYKC
+
+[주제 선정 보고서] (https://github.com/capstone-YYKC/docs/tree/main/%EA%B3%84%ED%9A%8D%EC%84%9C)
 
 <!--
 
